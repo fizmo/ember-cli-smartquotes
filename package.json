@@ -1,9 +1,11 @@
 {
   "name": "ember-cli-smartquotes",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "A simple Ember wrapper for smartquotes.js",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "htmlbars-ast-plugin",
+    "typography"
   ],
   "license": "MIT",
   "author": "",
@@ -11,14 +13,15 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/fizmo/ember-cli-dropcap",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
     "test": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.3.0"
+    "ember-cli-babel": "^6.3.0",
+    "smartquotes": "^2.1.2"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
