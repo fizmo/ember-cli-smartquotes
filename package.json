@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-smartquotes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple Ember wrapper for smartquotes.js",
   "keywords": [
     "ember-addon",
