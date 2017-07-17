@@ -13,7 +13,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "https://github.com/fizmo/ember-cli-dropcap",
+  "repository": "https://github.com/fizmo/ember-cli-smartquotes",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
